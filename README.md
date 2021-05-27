@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000E1&size=40&center=true&vCenter=true&width=1000&height=200&lines=Hey+there%2C+I'm+Wishvantha+Perera;%F0%9F%92%BE++Software+Developer+;Thanks+for+visiting+my+profile)](https://git.io/typing-svg)
 
 <hr />
-<br />
 
 I am **Wishvantha Perera** working as UI/UX Engineer with Team Exporelogy. I am an Experienced **Front End Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS,  Gatsby, NextJs, React Native, NodeJS, PWA(Progressive Web Apps), MongoDB, MERN Stack, RESTfull API’s, HTML, User Experience & Prototyping.** 
+
+<br />
 
 - 🧑🏻‍💻 I’m currently working as a UI/UX Engineer at [Explorelogy](https://explorelogy.lk/)
 - ⚙️  I use daily:  `.js`,  `.tsx`,  `.svg`,  `.scss`,  `.jsx`,  `.xd`,  `.ai`
