@@ -3,6 +3,9 @@
 <hr />
 
 <div>
+  
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <img src="https://img.shields.io/github/followers/wish9919" alt="Github Followers" />
 <img src="https://img.shields.io/twitter/follow/wish9919" alt="Github Followers" />
 <img src="https://img.shields.io/youtube/channel/views/UCf8oax4Iksw7YR9HmnuWp0A" alt="Github Followers" />
@@ -64,7 +67,7 @@
 
 <div>
 <h3>IDEs</h3>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=white"/>
 <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
 <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
