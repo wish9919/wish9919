@@ -14,12 +14,15 @@
 
 <small>I am **Wishvantha Perera** working as UI/UX Engineer with Team Exporelogy. I am an Experienced **Front End Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS,  Gatsby, NextJs, React Native, NodeJS, PWA(Progressive Web Apps), MongoDB, MERN Stack, RESTfull API’s, HTML, User Experience & Prototyping.**  </small>
 
+<br />
 
 - 🧑🏻‍💻 I’m currently working as a UI/UX Engineer at [Explorelogy](https://explorelogy.lk/)
 - ⚙️  I use daily:  `.js`,  `.tsx`,  `.svg`,  `.scss`,  `.jsx`,  `.xd`,  `.ai`
 - 🌱  Learning all about  **Open Source**
 - 💬 Ask me about `JavaScript`
 - ⚡ Fun fact: Live with Code & ☕️
+
+<br />
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wish9919&&layout=compact&langs_count=8&theme=light)](https://github.com/anuraghazra/github-readme-stats) | ![Wishvantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish9919&show_icons=true&theme=light) |
 |--|--|
