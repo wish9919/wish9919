@@ -15,7 +15,7 @@
 <br />
 
 
-<small>I am **Wishvantha Perera** working as UI/UX Engineer with Team Exporelogy. I am an Experienced **Front End Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS,  Gatsby, NextJs, React Native, NodeJS, PWA(Progressive Web Apps), MongoDB, MERN Stack, RESTfull API’s, HTML, User Experience & Prototyping.**  </small>
+<small>I am **Wishvantha Perera** working as UI/UX Engineer with Team Exporelogy. I am an Experienced **Front End Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS,  Gatsby, NextJs, React Native, Flutter, NodeJS, PWA(Progressive Web Apps), MongoDB, MERN Stack, RESTfull API’s, HTML, User Experience & Prototyping.**  </small>
 
 <br />
 
