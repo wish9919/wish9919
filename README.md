@@ -8,9 +8,6 @@
 
 </div>
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wish9919&&layout=compact&langs_count=8&theme=light)](https://github.com/anuraghazra/github-readme-stats) | ![Wishvantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish9919&show_icons=true&theme=light) |
-|--|--|
-
 <br />
 
 <div>
