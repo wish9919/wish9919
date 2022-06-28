@@ -1,15 +1,28 @@
-<div>
-  
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+### Hey There 👋🏼
 
-<img src="https://img.shields.io/github/followers/wish9919" alt="Github Followers" />
-<img src="https://img.shields.io/twitter/follow/wish9919" alt="Github Followers" />
-<img src="https://img.shields.io/youtube/channel/views/UCf8oax4Iksw7YR9HmnuWp0A" alt="Github Followers" />
-
-</div>
-
+I'm a Software developer. JavaScript enthusiast, live with code 💾 and coffee ☕️
 <br />
 
+
+<p>Certain knowledge</p>
+<blockquote>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23333333.svg?style=for-the-badge&logo=node.js&logoColor=%23339933"/>
+<img alt="Serverless" src="https://img.shields.io/badge/serverless-%23000000.svg?style=for-the-badge&logo=serverless&logoColor=%23FD5750"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=%23FF9900"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23202020.svg?style=for-the-badge&logo=graphql&logoColor=E10098"/>
+<img alt="Apollo" src="https://img.shields.io/badge/Apollo-%23311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23011e2b.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248"/>
+<img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img alt="Webpack" src="https://img.shields.io/badge/webpack-%232b3a42.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%2311081f.svg?style=for-the-badge&logo=gatsby&logoColor=663399"/>
+</blockquote>
+
+<!--
 <div>
 <h3>LANGUAGES</h3>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -68,6 +81,8 @@
 <img alt="" src="https://img.shields.io/badge/wish3210-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=000"/>
 </div>
 <br />
+
+-->
 
 
 
