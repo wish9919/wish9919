@@ -4,7 +4,7 @@ I'm a Software developer. JavaScript enthusiast, live with code 💾 and coffee 
 <br />
 
 
-<p>Certain knowledge</p>
+<p>Tech Stack</p>
 <blockquote>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
