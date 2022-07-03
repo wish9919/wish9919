@@ -1,6 +1,5 @@
 ### Hey There 👋🏼
 
-I'm a Software developer. JavaScript enthusiast, live with code 💾 and coffee ☕️
 <br />
 
 
