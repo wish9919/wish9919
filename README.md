@@ -21,6 +21,10 @@
 <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%2311081f.svg?style=for-the-badge&logo=gatsby&logoColor=663399"/>
 </blockquote>
 
+
+
+[![](https://visitcount.itsvg.in/api?id=wish9919&label=Profile%20Views&color=2&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 <div>
 <h3>LANGUAGES</h3>
@@ -82,7 +86,6 @@
 <br />
 
 -->
-
 
 
 
